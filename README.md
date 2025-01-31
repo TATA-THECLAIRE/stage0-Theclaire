@@ -80,7 +80,7 @@ curl http://localhost:8000/
 
 ## Deployment
 
-This API can be deployed on :
+This API is deployed on :
 
 **Render**
 

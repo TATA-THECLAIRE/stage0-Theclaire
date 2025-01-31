@@ -1,0 +1,3 @@
+flaskapi== 0.15.8
+pytz==2024.2
+uvicorn==0.34.0
