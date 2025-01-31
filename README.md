@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # HNG12 Stage 0 Backend API
 
 A simple REST API that returns basic information including an email address, current datetime in ISO 8601 format, and GitHub repository URL.
@@ -59,7 +59,7 @@ Follow these steps to set up the project on your local machine:
 
 ### Endpoint
 
-- **URL:** `GET /`
+- **URL:** `https://stage0-theclaire.onrender.com`
 - **Method:** `GET`
 - **CORS:** Enabled for all origins
 
