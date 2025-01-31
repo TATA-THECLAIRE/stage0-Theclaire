@@ -19,6 +19,15 @@ A simple REST API that returns basic information including an email address, cur
 - **Uvicorn** - An ASGI server for serving FastAPI applications.
 - **pytz** - Library for timezone handling.
 
+### Example Usage
+
+You can test the API using postman :
+request type : GET
+
+```url
+https://stage0-theclaire.onrender.com
+```
+
 ## Local Setup
 
 Follow these steps to set up the project on your local machine:
@@ -72,10 +81,10 @@ Follow these steps to set up the project on your local machine:
 
 ### Example Usage
 
-You can test the API using `curl`:
+You can test the API using postman :
 
-```bash
-curl http://localhost:8000/
+```url
+https://stage0-theclaire.onrender.com
 ```
 
 ## Deployment
